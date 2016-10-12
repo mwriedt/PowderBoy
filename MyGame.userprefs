@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Windows|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\ParticleDust.cs">
+    <Files>
+      <File FileName="src\GameMain.cs" Line="1" Column="1" />
+      <File FileName="src\Map.cs" Line="11" Column="33" />
+      <File FileName="src\Game.cs" Line="241" Column="40" />
+      <File FileName="src\Particle.cs" Line="1" Column="1" />
+      <File FileName="src\ParticleDust.cs" Line="28" Column="100" />
+      <File FileName="src\ParticleLiquid.cs" Line="19" Column="52" />
+      <File FileName="src\ParticleGas.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\src\Game.cs" line="297" column="22" />
+      <Breakpoint file="C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\src\ParticleDust.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

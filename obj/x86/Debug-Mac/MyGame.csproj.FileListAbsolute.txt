@@ -1,0 +1,52 @@
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\obj\x86\Debug-Mac\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\animations\startup.txt
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\fdFile.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\sounds\error.wav
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\SwinGame.icns
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\Resources\SwinGame.ico
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\MyGame.exe
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\MyGame.pdb
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\bin\Debug\SwinGame.dll
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\obj\x86\Debug-Mac\MyGame.exe
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\ProjectTemplate\obj\x86\Debug-Mac\MyGame.pdb
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\obj\x86\Debug-Mac\MyGame.exe
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\obj\x86\Debug-Mac\MyGame.pdb
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\animations\startup.txt
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\fdFile.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\sounds\error.wav
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\SwinGame.icns
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\Resources\SwinGame.ico
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\MyGame.exe
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\MyGame.pdb
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\bin\Debug\SwinGame.dll
+C:\Users\Mitchell\Desktop\Object Oriented Programming\CustomProgramTEST\Custom hlaf isze\ProjectTemplate\obj\x86\Debug-Mac\MyGame.csprojResolveAssemblyReference.cache
